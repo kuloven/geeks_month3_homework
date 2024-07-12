@@ -177,4 +177,4 @@ pyrightconfig.json
 scripts/
 pyvenv.cfg
 
-# End of https://www.toptal.com/developers/gitignore/api/python
+# End of https://www.toptal.com/developers/gitignore/api/python.env
